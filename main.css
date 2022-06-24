@@ -1,0 +1,11 @@
+.accordion-title {
+    background-color: purple;
+}
+
+.accordion-content {
+    background-color: red;
+}
+
+.hidden {
+    display: none;
+}
